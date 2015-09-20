@@ -421,7 +421,7 @@ static void calculateBasisVectors(point3 u, point3 v, point3 w,
 }
 
 /*
-	proect color value overflow
+	protect color value overflow
 */
 static void protect_color_overflow(color c)
 {
